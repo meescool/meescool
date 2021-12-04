@@ -1,5 +1,8 @@
-### Hi there 👋
-
+![alt_text](https://raw.githubusercontent.com/meescool/meescool/main/images/githubIntro.svg)
+<h1> Hello 👋</h1>
+😄 Pronouns: she/her <br>
+🌱 I’m currently learning the MERN web stack<br>
+Hi there! Welcome to my github. I'
 <!--
 **meescool/meescool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
