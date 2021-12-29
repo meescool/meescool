@@ -17,6 +17,8 @@ expand and do work in computer graphics, animation and maybe even game developme
 If you think you'd like to work with me or colloraborate, please don't hesitate in
 emailing me at 5madartse1@gmail.com!
 
+![alt_text](https://raw.githubusercontent.com/meescool/meescool/main/images/cutebunny.gif) 
+
 <!--
 **meescool/meescool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
