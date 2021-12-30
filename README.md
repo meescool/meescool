@@ -1,9 +1,9 @@
-![alt_text](https://raw.githubusercontent.com/meescool/meescool/main/images/githubIntro.svg) 
+![A short comic that has a wizard cat saying that they are a representation of Marcela's creativity and that they are bringing her introduction message in the form of a music player.](https://raw.githubusercontent.com/meescool/meescool/main/images/githubIntro.svg) 
 
 😄 My pronouns: she/her <br>
 🌱 I’m currently learning: the MERN web stack and 2d/3d graphics development<br>
 🔭 I’m currently working on: freelance wordpress development and illustrations <br>
-⚡ Fun fact: I once was very serious in becoming a professional runner :')
+⚡ Fun fact: I once was VERY serious in becoming a professional runner :')
 
 Hi there! I'm a developer and illustrator based in Nebraska. 
 I really enjoy the act of creating, and found that code and art have a
@@ -17,7 +17,7 @@ expand and do work in computer graphics, animation and maybe even game developme
 If you think you'd like to work with me or colloraborate, please don't hesitate in
 emailing me at 5madartse1@gmail.com!
 
-![alt_text](https://raw.githubusercontent.com/meescool/meescool/main/images/cutebunny.gif) 
+![A digital gif illustration of a small rabbit plushie. The rabbit is small and is purple, and it looks like it's resting inside of a plant. In the background there are flashing lights.](https://raw.githubusercontent.com/meescool/meescool/main/images/cutebunny.gif) 
 
 <!--
 **meescool/meescool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
