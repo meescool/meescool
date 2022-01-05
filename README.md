@@ -14,7 +14,7 @@ further deepen my knowledge and skill in both areas.
 So far, I've done most of this in web development, but I do hope to 
 expand and do work in computer graphics, animation and maybe even game development.
 
-If you think you'd like to work with me or colloraborate, please don't hesitate in
+If you think you'd like to work with me or collaborate, please don't hesitate in
 emailing me at 5madartse1@gmail.com!
 
 ![A digital gif illustration of a small rabbit plushie. The rabbit is small and is purple, and it looks like it's resting inside of a plant. In the background there are flashing lights.](https://raw.githubusercontent.com/meescool/meescool/main/images/cutebunny.gif) 
