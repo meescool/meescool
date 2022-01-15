@@ -1,7 +1,7 @@
 ![A short comic that has a wizard cat saying that they are a representation of Marcela's creativity and that they are bringing her introduction message in the form of a music player.](https://raw.githubusercontent.com/meescool/meescool/main/images/githubIntro.svg) 
 
 😄 My pronouns: she/her <br>
-🌱 I’m currently learning: the MERN web stack and 2d/3d graphics development<br>
+🌱 I’m currently learning: the MERN web stack and OpenGL<br>
 🔭 I’m currently working on: freelance wordpress development and illustrations <br>
 ⚡ Fun fact: I once was VERY serious in becoming a professional runner :')
 
