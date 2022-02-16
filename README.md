@@ -3,7 +3,7 @@
 😄 My pronouns: she/her <br>
 🌱 I’m currently learning: the MERN web stack and OpenGL<br>
 🔭 I’m currently working on: freelance wordpress development and illustrations <br>
-⚡ Fun fact: I once was VERY serious in becoming a professional runner :')
+⚡ Fun fact: My favorite game of all time is Chrono Trigger <3
 
 Hi there! I'm a developer and illustrator based in Nebraska. 
 I really enjoy the act of creating, and found that code and art have a
