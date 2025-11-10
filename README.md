@@ -5,7 +5,7 @@
 🔭 I’m currently working on: Front-end projects for work<br>
 ⚡ Fun fact: My favorite game of all time is Chrono Trigger <3
 
-Hi there! I'm a front-end/mapping developer and illustrator based in Nebraska. 
+Hi there! I'm a front-end/mapping developer and illustrator based in the midwest. 
 I really enjoy the act of creating, and found that code and art have a
 a lot of overlapping when it comes to planning, problem solving and innovating. 
 I've also found that involving both in my learning process has allowed me to 
