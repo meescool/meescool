@@ -1,8 +1,8 @@
 ![A short comic that has a wizard cat saying that they are a representation of Marcela's creativity and that they are bringing her introduction message in the form of a music player.](https://raw.githubusercontent.com/meescool/meescool/main/images/githubIntro.svg) 
 
 😄 My pronouns: she/her <br>
-🌱 I’m currently learning: React development, ArcGIS JS API<br>
-🔭 I’m currently working on: Mapping projects for work<br>
+🌱 I’m currently learning: Advanced CSS animations and shaders<br>
+🔭 I’m currently working on: Front-end projects for work<br>
 ⚡ Fun fact: My favorite game of all time is Chrono Trigger <3
 
 Hi there! I'm a front-end/mapping developer and illustrator based in Nebraska. 
